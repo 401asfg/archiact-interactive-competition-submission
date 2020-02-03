@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 24411d5c07b9cda40913e487bfc66d19
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - enemyToSpawn: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
